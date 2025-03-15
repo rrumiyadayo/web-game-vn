@@ -32,7 +32,7 @@ label start:
     # at center は中央に下揃えで表示します。これは省略しても同じ結果になります。
     # その他に at right、at left などがデフォルトで定義されています。
 
-    show eileen happy at center
+    show eileen happy at right
 
     # トランジション（画面遷移効果）を使って表示を画面に反映させます。
     # 台詞を表示するか with None を使うと、トランジション無しで直ちに表示します。
